@@ -9,9 +9,9 @@
  */
 
 
-namespace {{CompanyName}}\{{ModuleName}}\Model\Resource;
+namespace {{CompanyName}}\{{ModuleName}}\Model\ResourceModel;
 
-class Items extends \Magento\Framework\Model\Resource\Db\AbstractDb
+class Items extends \Magento\Framework\Model\ResourceModel\Db\AbstractDb
 {
     /**
      * Model Initialization
